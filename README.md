@@ -1,2 +1,2 @@
 # deploy-web
-deploy web tensorflowjs
+MARATONA DATA SCIENCE - COMEÇANDO A APRENDER
